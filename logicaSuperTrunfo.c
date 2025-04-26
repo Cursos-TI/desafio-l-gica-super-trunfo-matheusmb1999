@@ -2,6 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
+// Revisado
 
 int main() {
   // Definição das variáveis para armazenar as propriedades das cidades
